@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UFO
+  - Ground
+  - Item
+  - cube1
+  - cube2
+  - cube3
+  - cube4
+  - cube5
+  - warning
+  - Cam1
+  - cube
+  - trap
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - collision_check_cube
+  - Water
+  - UI
+  - moving_check
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
